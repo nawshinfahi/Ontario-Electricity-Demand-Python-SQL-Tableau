@@ -49,22 +49,24 @@ This project answers questions like:
 ## 📊 Analysis Overview
 
 1. **Hourly Demand Patterns**  
-   - Shows average electricity demand per hour  
-   - Highlights peak hours of usage  
+   - Shows average electricity demand per hour.  
+   - **Finding:** Peak demand occurs between 16:00–19:00, indicating late afternoon and early evening are the busiest hours for electricity usage.  
 
 2. **Weekly Demand Patterns**  
-   - Compares weekdays vs weekends  
-   - Shows which days consistently have higher demand  
+   - Compares weekdays vs weekends.  
+   - **Finding:** Weekdays consistently have higher demand than weekends, reflecting business and industrial consumption patterns.  
 
 3. **Monthly & Seasonal Demand**  
-   - Identifies month-to-month variation  
-   - Determines which seasons consume the most electricity  
+   - Identifies month-to-month and seasonal variations.  
+   - **Finding:** Winter months (December–February), especially January, have the highest electricity demand. Summer and spring show comparatively lower demand.  
 
 4. **Top 10 Peak Prices**  
-   - Dates, hours, month, and season of highest electricity prices  
+   - Shows dates, hours, month, and season of the highest electricity prices.  
+   - **Finding:** Most extreme price spikes occur during winter, suggesting high demand drives higher electricity prices.  
 
 5. **Price vs Demand Analysis**  
-   - Scatter plot showing how demand influences electricity prices  
+   - Scatter plot showing how demand influences electricity prices.  
+   - **Finding:** There is a positive correlation — higher electricity demand generally leads to higher prices.  
 
 ---
 
