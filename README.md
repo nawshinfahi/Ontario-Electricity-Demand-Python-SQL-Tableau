@@ -38,11 +38,11 @@ This project answers questions like:
 | File | Description |
 |------|-------------|
 | ontario_electricity_RAW.csv | Original dataset |
-| `ontario_energy_cleaned.csv` | Cleaned and pre-processed data |
-| `energy_analysis.ipynb` | Python notebook for cleaning & initial analysis |
-| `Ontario_Energy_Demand_Query.sql` | All SQL queries with aggregation & peak price calculations |
-| `Ontario_electricity_dashboard.twbx` | Tableau dashboard with 5 visualizations |
-| `Project_Report.pdf` | Screenshots of SQL outputs and dashboards for reference |
+| ontario_energy_cleaned.csv | Cleaned and pre-processed data |
+| energy_analysis.ipynb | Python notebook for cleaning & initial analysis |
+| Ontario_Energy_Demand_Query.sql | All SQL queries with aggregation & peak price calculations |
+| Ontario_electricity_dashboard.twbx | Tableau dashboard with 5 visualizations |
+| Project_Report.pdf | Screenshots of SQL outputs and dashboards for reference |
 
 ---
 
